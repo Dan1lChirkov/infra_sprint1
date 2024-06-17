@@ -1,0 +1,5 @@
+IP: 158.160.16.110;
+name_taski: https://budek.ddns.net/;
+name_kittygram: https://kittygram.servebeer.com;
+login: Danil;
+password: D2a0n0i4l;
